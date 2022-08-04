@@ -27,7 +27,7 @@
   <a href="googl.es">Google</a> •
 </p>
 
-![screenshot](https://media4.giphy.com/media/B6odR0DhsStfW/giphy.gif?cid=ecf05e47upj2qaungu9waoec9kf8iuyfdgsgucdlo1itqdz5&rid=giphy.gif&ct=g)
+![screenshot](https://th.bing.com/th/id/R.e8112730ddcf8b78c54169905ecf6b94?rik=Lu3JhOVc6KT2Mw&pid=ImgRaw&r=0)
 
 
 
