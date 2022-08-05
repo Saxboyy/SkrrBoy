@@ -28,13 +28,28 @@
 </p>
 
 
-<h1 align="center">
-  <br>
-  <a href="google.com"><img src="https://media1.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e470tkn8oy590hgxqr1mnlbjmr6v6u4cn7xl5rc0a44&rid=giphy.gif&ct=g" alt="CAT"></a>
-  <br>
-  $krrBoy
-  <br>
-</h1>
+<p align="center">
+  <a href="https://codesandbox.io">
+    <img src="https://codesandbox.io/static/img/banner.png?v=2" height="300px">
+  </a>
+</p>
+
+&nbsp;
+
+“Can you remember who you were before the world told you who you should be?” – Charles Bukowski
+
+## Skills
+
+Skills that make me stand out from other network users
+
+- Scotophobia: Nothing more to add
+- Explorer's Syndrome
+- I'm a fan of Studio Ghibli
+- Novice at everything, expert at nothing
+
+
+
+
 
 
 
