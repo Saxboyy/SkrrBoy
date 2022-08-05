@@ -29,7 +29,7 @@
 
 “Can you remember who you were before the world told you who you should be?” – Charles Bukowski
 
-## Skills
+## $kills
 
 - Scotophobia: Nothing more to add
 - Explorer's Syndrome
