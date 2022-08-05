@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="googl.es">Google</a> •
+  <a href="https://open.spotify.com/playlist/6K9i7aJo75eSoHJ0Trpnwm?si=d692a3ed75fa4983">Google</a> •
 </p>
 
 “Can you remember who you were before the world told you who you should be?” – Charles Bukowski
