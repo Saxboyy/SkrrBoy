@@ -31,12 +31,9 @@
 
 ## $kills
 
-- Scotophobia: Nothing more to add
-- Explorer's Syndrome
-- I'm a fan of Studio Ghibli
-- Novice at everything, expert at nothing
+- Building .... =.=
 
-Wait, what? This is not Tinder .... ? Wow, I got confused again. 
+
 
 
 
