@@ -30,7 +30,7 @@
 
 <h1 align="center">
   <br>
-  <a href="google.com"><img src="https://media1.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e470tkn8oy590hgxqr1mnlbjmr6v6u4cn7xl5rc0a44&rid=giphy.gif&ct=g" alt="CAT" width="200"></a>
+  <a href="google.com"><img src="https://media1.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e470tkn8oy590hgxqr1mnlbjmr6v6u4cn7xl5rc0a44&rid=giphy.gif&ct=g" alt="CAT"></a>
   <br>
   $krrBoy
   <br>
