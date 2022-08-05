@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/6K9i7aJo75eSoHJ0Trpnwm?si=d692a3ed75fa4983">Google</a> •
+  <a href="https://open.spotify.com/playlist/6K9i7aJo75eSoHJ0Trpnwm?si=d692a3ed75fa4983">Fuck, it happened again 💔 (Playlist)</a> •
 </p>
 
 “Can you remember who you were before the world told you who you should be?” – Charles Bukowski
