@@ -27,8 +27,6 @@
   <a href="googl.es">Google</a> •
 </p>
 
-&nbsp;
-
 “Can you remember who you were before the world told you who you should be?” – Charles Bukowski
 
 ## Skills
@@ -39,6 +37,8 @@ Skills that make me stand out from other network users
 - Explorer's Syndrome
 - I'm a fan of Studio Ghibli
 - Novice at everything, expert at nothing
+
+Wait, what? This is not Tinder .... ? Wow, I got confused again. 
 
 
 
