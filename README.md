@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">No se que poner aqui ...<a href="google.com" target="_blank">Spain</a>.</h4>
+<h4 align="center">Summer Depresion<a href="google.com" target="_blank">Spain</a>.</h4>
 
 <p align="center">
   <a href="http://www.asfe.com.es/">
@@ -30,8 +30,6 @@
 “Can you remember who you were before the world told you who you should be?” – Charles Bukowski
 
 ## Skills
-
-Skills that make me stand out from other network users
 
 - Scotophobia: Nothing more to add
 - Explorer's Syndrome
