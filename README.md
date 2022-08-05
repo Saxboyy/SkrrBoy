@@ -7,8 +7,6 @@
   <br>
 </h1>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=adnp4ipaep3gaz48bg87jiyfi&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/Skrrboy)
-
 <h4 align="center"><a href="https://www.youtube.com/watch?v=GvKVU947e2E" target="_blank">Summer Depresion </a>.</h4>
 
 <p align="center">
