@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="google.com"><img src="https://th.bing.com/th/id/R.ed7a54d857fbd369df64304454729339?rik=si0pPvjtOxOs3A&pid=ImgRaw&r=0" alt="Markdownify" width="200"></a>
+  <a href="google.com"><img src="https://th.bing.com/th/id/R.ed7a54d857fbd369df64304454729339?rik=si0pPvjtOxOs3A&pid=ImgRaw&r=0" alt="CAT" width="200"></a>
   <br>
   $krrBoy
   <br>
@@ -27,7 +27,14 @@
   <a href="googl.es">Google</a> •
 </p>
 
-![screenshot](https://media1.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e470tkn8oy590hgxqr1mnlbjmr6v6u4cn7xl5rc0a44&rid=giphy.gif&ct=g)
+
+<h1 align="center">
+  <br>
+  <a href="google.com"><img src="https://media1.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e470tkn8oy590hgxqr1mnlbjmr6v6u4cn7xl5rc0a44&rid=giphy.gif&ct=g" alt="CAT" width="200"></a>
+  <br>
+  $krrBoy
+  <br>
+</h1>
 
 
 
