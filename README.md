@@ -1,7 +1,8 @@
 
 <h1 align="center">
   <br>
-  <a href="https://i.imgur.com/zWO5EVy.png" alt="logo"</a>
+  <img src="https://i.imgur.com/zWO5EVy.png"
+         alt="Gitter">
 </h1>
 
 <h4 align="center"><a href="https://www.youtube.com/watch?v=GvKVU947e2E" target="_blank">Summer Depresion </a>.</h4>
