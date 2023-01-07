@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://open.spotify.com/playlist/6K9i7aJo75eSoHJ0Trpnwm?si=d692a3ed75fa4983"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/68024/black-cat-face-clipart-md.png" alt="CAT" width="200"></a>
+  <a href="https://i.imgur.com/zWO5EVy.png" alt="CAT" width="200"></a>
   <br>
   $krrBoy
   <br>
